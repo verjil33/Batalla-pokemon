@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1608054630 source:c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\main.cpp
+	<iostream>
+	<list>
+	<conio.h>
+	"Batalla.h"
+
+1608044341 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\pokemon.h
+	<string>
+	"Dado.h"
+
+1607215092 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\dado.h
+	<time.h>
+	<windows.h>
+
+1608057583 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\pikachu.h
+	"Pokemon.h"
+
+1608057583 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\squirtle.h
+	"Pokemon.h"
+
+1608057583 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\charmander.h
+	"Pokemon.h"
+
+1608057583 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\abra.h
+	"Pokemon.h"
+
+1608057583 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\bulbasaur.h
+	"Pokemon.h"
+
+1608057583 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\psyduck.h
+	"Pokemon.h"
+
+1607232681 source:c:\users\user\documents\mate\programacion\c++\batalla pokemon\main.cpp
+	<iostream>
+	<list>
+	<conio.h>
+	"Batalla.h"
+
+1608057413 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\batalla.h
+	<iostream>
+	"Pokemon.h"
+	"Pikachu.h"
+	"squirtle.h"
+	"Charmander.h"
+	"Bulbasaur.h"
+	"Psyduck.h"
+	"Abra.h"
+	"Entrenador.h"
+	"Dado.h"
+
+1608057226 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\entrenador.h
+	<string>
+	"Pokemon.h"
+
+1607232896 c:\users\user\documents\mate\programacion\c++\batalla pokemon\batalla.h
+	<iostream>
+	"Pokemon.h"
+	"Pikachu.h"
+	"squirtle.h"
+	"Charmander.h"
+	"Bulbasaur.h"
+	"Psyduck.h"
+	"Abra.h"
+	"Entrenador.h"
+	"Dado.h"
+
+1607082072 c:\users\user\documents\mate\programacion\c++\batalla pokemon\pokemon.h
+	<string>
+	"Dado.h"
+
+1607082070 c:\users\user\documents\mate\programacion\c++\batalla pokemon\dado.h
+	<time.h>
+	<windows.h>
+
+1607232145 c:\users\user\documents\mate\programacion\c++\batalla pokemon\pikachu.h
+	"Pokemon.h"
+
+1607232145 c:\users\user\documents\mate\programacion\c++\batalla pokemon\squirtle.h
+	"Pokemon.h"
+
+1607232145 c:\users\user\documents\mate\programacion\c++\batalla pokemon\charmander.h
+	"Pokemon.h"
+
+1607232145 c:\users\user\documents\mate\programacion\c++\batalla pokemon\bulbasaur.h
+	"Pokemon.h"
+
+1607232145 c:\users\user\documents\mate\programacion\c++\batalla pokemon\psyduck.h
+	"Pokemon.h"
+
+1607232145 c:\users\user\documents\mate\programacion\c++\batalla pokemon\abra.h
+	"Pokemon.h"
+
+1607082070 c:\users\user\documents\mate\programacion\c++\batalla pokemon\entrenador.h
+	<string>
+	"Pokemon.h"
+
+1607602074 c:\users\user\documents\mate\video games\facultad\programacion 2\batalla pokemon\charmanderreborn.h
+	"Pokemon.h"
+
